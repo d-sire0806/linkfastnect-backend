@@ -18,3 +18,4 @@ git push -u origin main
 
 ## 環境変数備忘
 SCM_DO_BUILD_DURING_DEPLOYMENT:1
+2025年 8月31日 日曜日 15時25分54秒 JST - deploy trigger
